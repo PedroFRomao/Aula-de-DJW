@@ -1,7 +1,7 @@
 <h1 align="center"> Aula-de-DJW </h1>
 <p align="center">Repositório onde sera depositado todos os trabalhos referente a matéria de DJW2 pedidos pela professora Aline.</p>
  
-<h1>Atividade Página Jogo</h1>
+<h1>Site da troca de imagens</h1>
  <p Align="justify">O site apresenta um título que é o nome do jogo que escolhi para fazer essa atividade, logo abaixo possui uma imagem, que ao clicar nela, a imagem é trocada randomicamente e em baixo um texto com três parágrafos que falam sobre o jogo escolhido.</p>
  
 <ul>
